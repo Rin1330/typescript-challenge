@@ -15,3 +15,5 @@ npm run dev
 // 執行測試檔
 npm run test
 ```
+
+```https://rpg.hexschool.com/#/training/12062117482845192298/board/content/12062117482845192306_12062117482845192313 ```
